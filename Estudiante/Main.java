@@ -6,10 +6,6 @@ class Alumno {
         System.out.println(this.nombre + " esta estudiando");
     }
 
-    public static void main(String[] args) {
-
-    }
-
     void ver_edad() {
         System.out.println(" Y su edad es:" + this.edad);
     }
